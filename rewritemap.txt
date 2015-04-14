@@ -2,11 +2,11 @@
 ## rewritemap.txt - mod_rewrite map file
 ##
 
-## Video@Academy April 2015: Peter Williams at BLC 2015 - Be Adventurous (https://youtu.be/ot6MW3ty_XQ)
-AU/ot6MW3ty_XQ http://one.harcourts.com.au/Library/Folder.aspx?id=975
-CN/ot6MW3ty_XQ http://one.harcourts.cn/Library/Folder.aspx?id=1753
-HK/ot6MW3ty_XQ http://one.harcourts.hk/Library/Folder.aspx?id=1736
-ID/ot6MW3ty_XQ http://one.harcourts.co.id/Library/Folder.aspx?id=653
-NZ/ot6MW3ty_XQ http://one.harcourts.co.nz/Library/Folder.aspx?id=727
-US/ot6MW3ty_XQ http://one.harcourtsusa.com/Library/Folder.aspx?id=770
-ZA/ot6MW3ty_XQ http://one.harcourts.co.za/Library/Folder.aspx?id=786
+## H1 Media Library Leadership Folder
+AU/medialibrary/leadership http://one.harcourts.com.au/Library/Folder.aspx?id=975
+CN/medialibrary/leadership http://one.harcourts.cn/Library/Folder.aspx?id=1753
+HK/medialibrary/leadership http://one.harcourts.hk/Library/Folder.aspx?id=1736
+ID/medialibrary/leadership http://one.harcourts.co.id/Library/Folder.aspx?id=653
+NZ/medialibrary/leadership http://one.harcourts.co.nz/Library/Folder.aspx?id=727
+US/medialibrary/leadership http://one.harcourtsusa.com/Library/Folder.aspx?id=770
+ZA/medialibrary/leadership http://one.harcourts.co.za/Library/Folder.aspx?id=786
