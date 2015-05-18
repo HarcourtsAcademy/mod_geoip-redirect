@@ -21,10 +21,10 @@ US/medialibrary/sales http://one.harcourtsusa.com/Library/Folder.aspx?id=324
 ZA/medialibrary/sales http://one.harcourts.co.za/Library/Folder.aspx?id=324
 
 ## H1 Media Library Property Management Folder
-AU/medialibrary/propertymangement http://one.harcourts.com.au/Library/Folder.aspx?id=997
-CN/medialibrary/propertymangement http://one.harcourts.cn/Library/Folder.aspx?id=1755
-HK/medialibrary/propertymangement http://one.harcourts.hk/Library/Folder.aspx?id=1739
-ID/medialibrary/propertymangement http://one.harcourts.co.id/Library/Folder.aspx?id=660
-NZ/medialibrary/propertymangement http://one.harcourts.co.nz/Library/Folder.aspx?id=732
-US/medialibrary/propertymangement http://one.harcourtsusa.com/Library/Folder.aspx?id=772
-ZA/medialibrary/propertymangement http://one.harcourts.co.za/Library/Folder.aspx?id=789
+AU/medialibrary/propertymanagement http://one.harcourts.com.au/Library/Folder.aspx?id=997
+CN/medialibrary/propertymanagement http://one.harcourts.cn/Library/Folder.aspx?id=1755
+HK/medialibrary/propertymanagement http://one.harcourts.hk/Library/Folder.aspx?id=1739
+ID/medialibrary/propertymanagement http://one.harcourts.co.id/Library/Folder.aspx?id=660
+NZ/medialibrary/propertymanagement http://one.harcourts.co.nz/Library/Folder.aspx?id=732
+US/medialibrary/propertymanagement http://one.harcourtsusa.com/Library/Folder.aspx?id=772
+ZA/medialibrary/propertymanagement http://one.harcourts.co.za/Library/Folder.aspx?id=789
