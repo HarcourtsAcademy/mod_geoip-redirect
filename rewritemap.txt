@@ -3,6 +3,15 @@
 ##
 
 ## H1 Media Library Leadership Folder
+AU/medialibrary http://one.harcourts.com.au/Library/Folder.aspx?id=231
+CN/medialibrary http://one.harcourts.cn/Library/Folder.aspx?id=231
+HK/medialibrary http://one.harcourts.hk/Library/Folder.aspx?id=231
+ID/medialibrary http://one.harcourts.co.id/Library/Folder.aspx?id=231
+NZ/medialibrary http://one.harcourts.co.nz/Library/Folder.aspx?id=231
+US/medialibrary http://one.harcourtsusa.com/Library/Folder.aspx?id=231
+ZA/medialibrary http://one.harcourts.co.za/Library/Folder.aspx?id=231
+
+## H1 Media Library Leadership Folder
 AU/medialibrary/leadership http://one.harcourts.com.au/Library/Folder.aspx?id=975
 CN/medialibrary/leadership http://one.harcourts.cn/Library/Folder.aspx?id=1753
 HK/medialibrary/leadership http://one.harcourts.hk/Library/Folder.aspx?id=1736
